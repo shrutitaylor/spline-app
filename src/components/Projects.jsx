@@ -103,12 +103,12 @@ export default function Projects() {
       </div>
 
       {/* Navigation Arrows */}
-      <div className="absolute bottom-24 z-50 flex justify-between items-center w-24 py-4 bg-white bg-opacity-50 backdrop-blur-sm rounded-full">
+      <div className="absolute w-24 bottom-10 sm:bottom-auto sm:w-[620px] sm:ml-20 z-50 flex justify-between items-center ">
         <button onClick={handlePrev}>
-          <img src={leftArrow} alt="Previous" className="w-8 h-8" />
+          <img src={leftArrow} alt="Previous" className="w-8 h-8 sm:w-14 sm:h-14 hover:scale-110 transition-transform duration-200" />
         </button>
         <button onClick={handleNext}>
-          <img src={rightArrow} alt="Next" className="w-8 h-8" />
+          <img src={rightArrow} alt="Next" className="w-8 h-8 sm:w-14 sm:h-14 hover:scale-110 transition-transform duration-200" />
         </button>
       </div>
     </div>
