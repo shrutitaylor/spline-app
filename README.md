@@ -40,12 +40,12 @@ npm install
 npm run dev
 
 ## 🧪 Live Demo - 
-🔗 View Live Portfolio
+🔗 View Live Portfolio - 
 
 ## 🧑‍💻 Author
 Shruti
-📫 shrutitaylor.dev@gmail.com
-🌐 shrutitaylor.dev
+📫 shrutirep1989@gmail.com
+🌐 [shrutitaylor.dev](https://shrutitaylor.github.io/ProtfolioWebsiteShruti/)
 
 📄 License
 This project is licensed under the MIT License.
