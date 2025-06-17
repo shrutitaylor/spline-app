@@ -45,7 +45,7 @@ npm run dev
 ## 🧑‍💻 Author
 Shruti
 📫 shrutirep1989@gmail.com
-🌐 [shrutitaylor.dev](https://shrutitaylor.github.io/ProtfolioWebsiteShruti/)
+🌐 https://shrutitaylor.github.io/ProtfolioWebsiteShruti/
 
 📄 License
 This project is licensed under the MIT License.
