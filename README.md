@@ -40,7 +40,7 @@ npm install
 npm run dev
 
 ## 🧪 Live Demo - 
-🔗 View Live Portfolio - 
+🔗 View Live Portfolio - https://shrutitaylor.github.io/spline-app/
 
 ## 🧑‍💻 Author
 Shruti
