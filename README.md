@@ -1,12 +1,51 @@
-# React + Vite
+# 🎨 3D Portfolio — Built with React, Vite & Spline
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A short and visually rich personal portfolio showcasing interactive 3D models using [Spline](https://spline.design/) and smooth UI transitions with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🧠 Clean, modular React + Vite structure
+- 🎥 3D background & scenes powered by Spline
+- 🧭 Smooth scroll transitions & parallax sections
+- 🎨 Custom-designed projects with animated cards
+- 🌓 Responsive layout with Tailwind CSS
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## 🛠️ Technologies Used
+
+- **React** (with hooks & context)
+- **Vite** (for lightning-fast dev build)
+- **Spline** (`@splinetool/react-spline`)
+- **Framer Motion** (animations & transitions)
+- **Tailwind CSS** (utility-first styling)
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/shrutitaylor/spline-app.git
+
+# Move into the directory
+cd spline-app
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
+## 🧪 Live Demo - 
+🔗 View Live Portfolio
+
+## 🧑‍💻 Author
+Shruti
+📫 shrutitaylor.dev@gmail.com
+🌐 shrutitaylor.dev
+
+📄 License
+This project is licensed under the MIT License.

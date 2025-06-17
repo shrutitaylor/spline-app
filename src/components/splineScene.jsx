@@ -29,7 +29,7 @@ export default function SplineScene() {
      {/* Loading Overlay with Fade-Out */}
             {isLoading && (
               <div
-                className={`absolute h-screen inset-0 z-50 bg-black flex items-center justify-center transition-opacity duration-1000 ${
+                className={`absolute h-screen w-screen inset-0 z-50 bg-black flex items-center justify-center transition-opacity duration-1000 ${
                   fadeOut ? 'opacity-0' : 'opacity-100'
                 }`}
               >

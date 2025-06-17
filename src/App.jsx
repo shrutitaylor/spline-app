@@ -16,7 +16,7 @@ function App() {
 
   return (
     <>
-      <div className={`relative w-screen snap-y snap-mandatory font-vcrOsdMono uppercase h-screen max-h-[1024px] scroll-smooth  transition-colors duration-700`}>
+      <div className={`relative w-screen snap-y snap-mandatory font-vcrOsdMono uppercase h-screen scroll-smooth  transition-colors duration-700`}>
      
         {/* Background Layer (e.g., Spline) */}
         
